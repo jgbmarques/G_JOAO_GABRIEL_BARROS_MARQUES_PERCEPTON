@@ -2,10 +2,22 @@
 
 Este repositório contém um Jupyter Notebook educacional (`.ipynb`) que aborda os fundamentos do Perceptron, uma das unidades básicas das Redes Neurais Artificiais. O notebook inclui:
 
-- Explicações conceituais detalhadas da estrutura e funcionamento do Perceptron.
-- Fórmulas matemáticas explicadas passo a passo.
-- Implementação manual do algoritmo do Perceptron em Python (sem bibliotecas de alto nível como Scikit-learn ou TensorFlow/Keras para o núcleo do Perceptron).
-- Aplicação do Perceptron aos problemas lógicos OR e AND, com criação manual de datasets, treinamento, teste e visualização gráfica das fronteiras de decisão.
+### 1. Introdução ao modelo de Perceptron  
+1.1 Explicação conceitual detalhada  
+1.2 Estrutura básica do Perceptron  
+1.3 Fórmulas matemáticas detalhadas  
+1.4 Explicação passo a passo das fórmulas e do funcionamento do algoritmo  
+
+### 2. Aplicação do Perceptron aos problemas lógicos OR e AND  
+2.1 Criação manual dos datasets OR e AND  
+2.2 Implementação do algoritmo do Perceptron para treinar e testar nesses datasets  
+2.3 Gráficos demonstrando o treinamento e resultados  
+2.4 Explicação detalhada das decisões gráficas (fronteiras de decisão)  
+
+### 3. Discussão do problema XOR e suas implicações para a evolução das redes neurais  
+3.1 Demonstração gráfica e experimental da incapacidade do Perceptron em resolver o problema XOR  
+3.2 Discussão conceitual sobre a limitação do modelo linear  
+3.3 Contextualização histórica: como o problema XOR levou à criação de redes multicamadas (MLP)  
 
 ---
 
