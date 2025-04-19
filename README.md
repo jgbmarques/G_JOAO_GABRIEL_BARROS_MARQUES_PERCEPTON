@@ -18,13 +18,14 @@ Este repositório contém um Jupyter Notebook educacional (`.ipynb`) que aborda 
 3.2 Discussão conceitual sobre a limitação do modelo linear  
 3.3 Contextualização histórica: como o problema XOR levou à criação de redes multicamadas (MLP)  
 
+### BÔNUS - Implementação de 10 funções de ativação
 ---
 
 ### *Reconhecimentos e Direitos Autorais*
 
 - **@autor:** João Gabriel Barros Marques  
-- **@data última versão:** ---  
-- **@versão:** 0.0  
+- **@data última versão:** 19/04/2025  
+- **@versão:** 1.0  
 - **@Agradecimentos:** Universidade Federal do Maranhão (UFMA), Professor Doutor Thales Levi Azevedo Valente, e colegas de curso.
 
 ---
